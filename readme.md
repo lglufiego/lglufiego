@@ -16,7 +16,7 @@ I'm a full stack developer on a lifetime studying and learning route.
   'HTML', 'CSS', 'Bootstrap', 'Javascript', 'Vue', 'NuxtJS', 
   'Vuetify', 'NodeJS'
  ]
- var experience = ['firebase', 'aws services', '
+ var experience = ['Google Cloud', 'Aws Services']
 
 
 ```
