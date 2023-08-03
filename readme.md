@@ -13,8 +13,7 @@ I'm a full stack developer on a lifetime studying and learning route.
  
  const string = "A few skills"
  var languages = [
-  'HTML', 'CSS', 'Bootstrap', 'Javascript', 'Vue', 'NuxtJS', 
-  'Vuetify', 'NodeJS'
+  'HTML', 'CSS', 'Bootstrap', 'Javascript', 'Vue', 'Nuxt', 'NodeJS'
  ]
  var experience = ['Google Cloud', 'Aws Services']
 
