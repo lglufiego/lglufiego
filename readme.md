@@ -9,7 +9,7 @@ I'm a full stack developer on a lifetime studying and learning route.
 ```javascript
 
  const name = "Luiz Gustavo Lufiego"
- let age = 29
+ let age = 32
  
  const string = "A few skills"
  var languages = [
